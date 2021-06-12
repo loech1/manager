@@ -1,0 +1,6 @@
+[requires]
+boost/1.75.0
+ncurses/6.2
+
+[generators]
+cmake

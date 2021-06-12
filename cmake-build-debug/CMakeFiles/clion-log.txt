@@ -1,0 +1,9 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/dashapermyakova/CLionProjects/untitled7
+-- Conan: Adjusting output directories
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- Current conanbuildinfo.cmake directory: /Users/dashapermyakova/CLionProjects/untitled7/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/dashapermyakova/CLionProjects/untitled7/cmake-build-debug
